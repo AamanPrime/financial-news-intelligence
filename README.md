@@ -518,10 +518,6 @@ MIT License - Use freely for portfolio, commercial, and educational purposes.
 
 ---
 
-## Contact & Support
-
-For questions or improvements, refer to the code documentation or open an issue.
-
 **Built with:** Python 3.10+ | FastAPI | spaCy | PostgreSQL | Gemini/OpenAI
 
 ---
