@@ -526,4 +526,4 @@ For questions or improvements, refer to the code documentation or open an issue.
 
 ---
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
